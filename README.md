@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TIRTHANKAR DEBNATH</h1>
+<h1 align="center">Hi 👋, I'm TIRTHANKAR</h1>
 <h3 align="center">Data Science & Machine Learning enthusiast in the field of Information technology and services industry. Skilled in Python, SQL, Object-Oriented Programming, Data Analysis, and Various Machine learning and Deep learning algorithms. Strong engineering professional with a Bachelor's degree focused in computer science and engineering from Amity University (Kolkata). Right now I am pursuing my Master's degree in Data Science from the Maulana Abul Kalam Azad University of Technology.om India</h3>
 
 - 🌱 I’m currently learning **Data science, Machine Learning and Deep learning.**
