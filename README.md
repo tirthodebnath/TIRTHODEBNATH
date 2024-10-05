@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm TIRTHANKAR</h1>
-<h3 align="center">Hi,
-I am Tirthankar, a Data enthusiast in the field of Information technology and services industry. 
-Skilled in Python, SQL, Object-Oriented Programming, Data Engineering and analysis, and Various Machine learning and Deep learning algorithms. I have knowledge of application modernization and serverless cloud services like Microsoft Azure and Amazon Web Services (AWS).
-I have completed my Bachelor's degree focused on computer science and engineering from Amity University (Kolkata) and a Master's degree in Data Science from the Maulana Abul Kalam Azad University of Technology.</h3>
+<h3 align="center">
+Hi, 
+I'm Tirthankar, a data enthusiast in the field of Information Technology and Services.
+I specialize in Data Engineering, Data Analysis, and have expertise in Python, SQL, Object-Oriented Programming, as well as Machine Learning and Deep Learning algorithms. 
+I also have experience in application modernization and serverless cloud services, particularly with Microsoft Azure and Amazon Web Services (AWS).
+I hold a Bachelor's degree in Computer Science and Engineering from Amity University and a Master's degree in Data Science from Maulana Abul Kalam Azad University of Technology.</h3>
 
-- 🌱 I’m currently working on **Python, SQL, Data Engineering, Machine Learning and Deep Learning**
+- 🌱 I’m currently working on **Data Engineering & Data Analysis, Machine Learning & Deep Learning**
 
 - 📫 How to reach me **tirthodebnath@gmail.com**
 
